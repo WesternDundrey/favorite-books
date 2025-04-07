@@ -1,0 +1,60 @@
+### Textbooks
+- Deep Learning for Coders
+- Statistical Rethinking
+- The Elements of Computing Systems
+- Visual Complex Analysis
+- Categories for the Working Mathematician
+- Analysis I and II by Terence Tao
+- Measures, Integrals and Martingales
+- Naive Set Theory
+- Art of Computer Programming
+- The Art of Problem Solving (Recommended to read all of them)
+- An Introduction to Homological Algebra
+- Deep Learning
+- Practical Statistics
+- Elements of Statistical Learning
+- Learning Go
+- Learning Modern C++ for Finance
+- Understanding DeFi
+- Advanced Portfolio Management
+- The Princeton Mathematics Book (Good references)
+- Mathematics: Its Content, Methods and Meaning
+- All of Statistics
+- Arbitrage Theory
+- The Algorithm Design Manual
+- Regression Modeling Strategies with Applications
+- Nonlinear Dynamics
+- Elementary Applied Topology (GOATed)
+- Bayesian Data Analysis
+- Programming Rust
+- generatingfunctionology (GOATed)
+- A Book of Abstract Algebra
+- Primes of the Form $x^2 + ny^2$
+- Real Analysis
+- Algorithms
+- Designing Data-Intensive Applications
+- Concrete Mathematics
+- Asset Pricing
+- Data Science from Scratch
+- Combinatorial Problems
+- Quant Textbooks (i.e. Interview prep)
+- Caculus on Manifolds
+- Morse Theory
+- Proofs: A Long-Form Mathematics
+- A Course on Model Theory
+- Reinforcement Learning: An Introduction
+- Topology
+- Compared to What? Analysis of Algorithms
+- Calculus by Spivak (so goated its insane)
+- Game Theory (any of 'em)
+- Winning Ways (All Volumes)
+- Portfolio Risk Analysis
+- Financial Econometrics
+- Machine Learning Engineering
+- A Walk Through Combinatorics
+- Options, Futures, and other Derivatives
+- The Handbook of Fixed Income Securities
+- Quantitative Risk Management
+
+### Books
+(to be filled later; there is simply too much)
