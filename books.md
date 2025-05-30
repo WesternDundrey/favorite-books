@@ -163,4 +163,41 @@ only my favorite books and textbooks get on here!!!
 - CivilWarLand
 - Foucault's Pendulum
 - Demons
-The Waves
+- The Waves
+- The Vegetarian
+- Exercises in Style
+- Simulacra and Simulation
+- A Thousand Plateaus
+- Anti-Oedipus
+- Works of Love
+- Absalom Absalom
+- Capitalist Realism
+- Capital
+- Summa Theologica
+- Ecrits
+- In the Heart of the Heart of the Country
+- Revolutionary Suicide
+- The Red Book
+- Love Poems by Neruda
+- The Jakarta Method
+- No Pasaran
+- The Power Broker
+- Tibetan Book of the Dead
+- K-Punk Mark Fisher
+- Perfect Victims
+- Spelunky
+- Blood, Sweat, And Pixels
+- The Phenomenology of Spirit
+- The Soul of Rumi
+- Kingdoms in Peril
+- Four Quartets
+- The Pillow Book by Sei Shonagon
+- Playworld
+- The Book of Ebenezer Le Page
+- Zhuangzi
+- Ezra Pound
+- I am a cat
+- Wild Thing: A Life of Paul Gaguin
+- James
+- Four Seasons in Japan
+- A Sport and a Pastime
